@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="descriptions">
+        <item>
+            <key>game_name</key>
+            <value>Twenty One (21)</value>
+        </item>
+        <item>
+            <key>game_rules</key>
+            <value>The goal of the game is to get to, or approach as close to twenty one (21) as possible, without going over.
+You must have at least 15 points, 22 are two many. Two Aces are worth 21 points.
+You start the game with a deck of 33 cards. When you think you have good chances of winning, tap End Turn. Then it is the machine's turn.
+
+   Card face values:
+
+   - Unter:         2 points
+   - Ober:          3 points
+   - King:          4 points
+   - Weli (VI)      6 points (only one per deck!)
+   - Seven (VII):   7 points
+   - Eight (VIII):  8 points
+   - Nine (IX):     9 points
+   - Ten (X):      10 points
+   - Deuce:        11 points   (But: two aces win!)</value>
+        </item>
+
+
+
+    </string-array>
+</resources>

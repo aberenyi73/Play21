@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Play21</string>
+    <string name="game_name">Twenty One (21)</string>
+
+    <!-- Screen Titles -->
+    <string name="game">Game</string>
+    <string name="stats">Game Statistics</string>
+    <string name="rules">Game Rules</string>
+
+    <!-- Game Screen -->
+    <!-- Card Dealer -->
+    <string name="new_game">New Game</string>
+    <string name="end_turn">End Turn</string>
+    <string name="draw_instructions">Drag deck to Draw</string>
+
+    <!-- Hand -->
+    <string name="hand_message">Hand value: %s </string>
+
+    <!-- Score Board -->
+    <string name="winner">Winner: %s</string>
+    <string name="scores">"User: %d  -  Machine: %s"</string>
+
+
+    <!-- Statistics Screen -->
+    <string name="games_played">Games Played: %s</string>
+    <string name="wins">Wins: %s</string>
+    <string name="losses">Losses: %s</string>
+    <string name="ties">Ties: %s</string>
+
+    <!-- stats headers and player name stings -->
+    <string name="user">User</string>
+    <string name="machine">Machine</string>
+    <string name="game_winner">Winner</string>
+    <string name="game_date">Date</string>
+
+
+
+
+</resources>
